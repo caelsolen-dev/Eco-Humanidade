@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{Ecos.logout();Ecos.shell('Sair','');Ecos.footer();document.getElementById('app').innerHTML='<div class="page"><div class="panel"><p>Encerrando sessão...</p></div></div>';setTimeout(()=>location.replace('login.html'),150);});

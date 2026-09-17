@@ -1,0 +1,11 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "mestre",
+      "senha": "sha256$615149d85cea65fbd4f0a50efb290059231663d2f51ad261de7a1f9385145019",
+      "tipo": "admin"
+    }
+  ],
+  "fichas": []
+}
